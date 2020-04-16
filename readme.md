@@ -1,2 +1,3 @@
-# Connect 4 application in python
+# Connect 4 game in python
+
 
